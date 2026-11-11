@@ -1,38 +1,70 @@
 ---
-layout: about
-title: about
 permalink: /
-subtitle: Research Fellow, <a href='https://www.ajou.ac.kr/medicine/' target='_blank'>Ajou University School of Medicine</a> · Visiting Researcher, Department of Computational Biomedicine, <a href='https://www.cedars-sinai.org/' target='_blank'>Cedars-Sinai Medical Center</a>
-
-profile:
-  align: right
-  image:
-  image_circular: false
-  more_info: >
-    <p>Department of Physiology</p>
-    <p>Ajou University School of Medicine</p>
-    <p>Suwon, Korea</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-I am a computational biologist working at the interface of **multi-omics data analysis** and **biomedical AI**.
-My research asks what molecular factors drive heterogeneity among patients with the same disease, and how those factors contribute to disease progression.
+<span class='anchor' id='about-me'></span>
 
-My current work spans four directions:
+I am a Research Fellow at the Department of Physiology, Ajou University School of Medicine (mentor: Dr. Hyun Goo Woo), and a Visiting Researcher at the Department of Computational Biomedicine, Cedars-Sinai Medical Center (mentor: Dr. Kyoung Jae Won).
+I study **what molecular factors drive heterogeneity among patients with the same disease**, using multi-omics, single-cell and spatial transcriptomics, and biomedical knowledge graphs.
 
-- **Liver disease genomics** — integrating whole-exome and transcriptome data to find drivers of MASLD progression, such as _IFI16_ variants and expression ([Hepatology, 2025](https://doi.org/10.1097/HEP.0000000000000805)).
-- **Single-cell and spatial omics of liver cancer** — single-cell multiome (scRNA-seq, scATAC-seq) of intrahepatic cholangiocarcinoma and Visium spatial transcriptomics of hepatocellular carcinoma to resolve the tumor immune microenvironment.
-- **Graph-based machine learning for dementia** — protein–protein interaction-aware graph neural networks for plasma proteome-based subtyping of dementia and mild cognitive impairment.
-- **Biomedical knowledge graphs and GraphRAG** — integrating public omics, clinical, and pharmacological knowledge bases into a translational knowledge graph combined with large language models.
+My current research focuses on:
+- **Liver disease and cancer**: genomic drivers of MASLD progression, and the tumor immune microenvironment of liver cancer from single-cell multiome and spatial transcriptomics.
+- **Dementia**: graph neural networks for plasma proteome-based subtyping of dementia and mild cognitive impairment.
+- **Biomedical knowledge graphs**: integrating public knowledge bases with large language models (GraphRAG).
 
-I received my Ph.D. in Biomedical Sciences (Biomedical Informatics) from Ajou University under Dr. Hyun Goo Woo, and I am currently a visiting researcher in Dr. Kyoung Jae Won's lab at Cedars-Sinai Medical Center.
+# 🔥 News
+- *2026.09*: &nbsp;🎉 Korean patent registered on _IFI16_ variants as markers for chronic liver disease (10-3028668).
+- *2026.09*: &nbsp;Started a Basic Research Program grant (Ministry of Education / NRF) as Principal Investigator.
+- *2026.07*: &nbsp;Joined Cedars-Sinai Medical Center as a Visiting Researcher.
+- *2025.02*: &nbsp;🏆 Outstanding Thesis Award (Dean's Award), Graduate School of Ajou University.
+
+# 📝 Publications
+<sup>\*</sup> Equal contribution
+
+- [Integrative transcriptomic and genomic analyses unveil the IFI16 variants and expression as MASLD progression markers](https://doi.org/10.1097/HEP.0000000000000805)<br>
+  **D. Kim**\*, M. Shah\*, ..., H. G. Woo<br>
+  ***Hepatology*, 2025**
+
+- [NeuroFANN: identification of neuropathological subtypes in dementia with plasma proteins by using functionally annotated neural network](https://doi.org/10.1093/bib/bbaf366)<br>
+  S. Park\*, **D. Kim**\*, ..., H. G. Woo<br>
+  ***Briefings in Bioinformatics*, 2025**
+
+- [Plasma protein-based identification of neuroimage-driven subtypes in mild cognitive impairment via protein-protein interaction aware explainable graph propagational network](https://doi.org/10.1016/j.compbiomed.2024.109303)<br>
+  S. Park\*, **D. Kim**\*, ..., H. G. Woo<br>
+  ***Computers in Biology and Medicine*, 2024**
+
+- [Pan-variant SARS-CoV-2 vaccines induce protective immunity by targeting conserved epitopes](https://doi.org/10.1002/advs.202409919)<br>
+  M. Shah, ..., **D. Kim**, H. G. Woo<br>
+  ***Advanced Science*, 2025**
+
+- [Identification of molecular subtypes of dementia by using blood-proteins interaction-aware graph propagational network](https://doi.org/10.1093/bib/bbae428)<br>
+  S. Park, ..., **D. Kim**, ..., H. G. Woo<br>
+  ***Briefings in Bioinformatics*, 2024**
+
+- [Artificial intelligence-driven drug repositioning uncovers efavirenz as a modulator of α-synuclein propagation: Implications in Parkinson's disease](https://doi.org/10.1016/j.biopha.2024.116442)<br>
+  J. B. Kim, ..., **D. Kim**, ..., S. M. Park<br>
+  ***Biomedicine & Pharmacotherapy*, 2024**
+
+- [Pathogenic NOTCH3 variants are frequent among the Korean general population](https://doi.org/10.1212/NXG.0000000000000639)<br>
+  C. H. Kang\*, Y. M. Kim\*, ..., **D. Kim**, ..., J. C. Choi<br>
+  ***Neurology: Genetics*, 2021**
+
+# 🎖 Honors and Awards
+- *2026.09* Korean Patent 10-3028668 — _IFI16_ mutant gene as a marker for risk prediction, diagnosis or prognosis of chronic liver disease.
+- *2025.02* Outstanding Thesis Award (Dean's Award, School of Medicine), Graduate School of Ajou University.
+- *2025* Featured in BRIC "Hanbitsa" (Korean Scientists Who Shine) for the _Hepatology_ 2025 paper.
+
+# 📖 Education
+- *2020.03 - 2024.08*, Ph.D. in Biomedical Sciences (Biomedical Informatics), Ajou University, Korea. Advisor: Dr. Hyun Goo Woo
+- *2013.03 - 2019.02*, B.S. in Life Science, Hallym University, Korea
+
+# 💻 Experience
+- *2026.07 - now*, Visiting Researcher, Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, CA
+- *2024.09 - now*, Research Fellow, Department of Physiology, Ajou University School of Medicine, Suwon, Korea
+- *2023.01 - 2023.02*, Bioinformatics Intern, Insilicogen, Inc., Korea
