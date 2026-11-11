@@ -130,3 +130,31 @@ h1:before, .anchor:before {
 .site-links a { color: #494e52; text-decoration: none; }
 .site-links a:hover { color: #224b8d; }
 .site-links i { margin-right: .25em; }
+
+/* hide top menu bar; tabs live above the content */
+.masthead { display: none; }
+#main { margin-top: 2em; }
+
+/* CV / Research Interests tabs */
+.tabbar {
+    display: flex;
+    gap: .4em;
+    margin: 0 0 1.6em;
+    border-bottom: 1px solid #e8e8e8;
+}
+.tabbtn {
+    appearance: none;
+    background: none;
+    border: 0;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    padding: .55em .9em;
+    font: inherit;
+    font-size: .95em;
+    font-weight: 600;
+    color: #7a8288;
+    cursor: pointer;
+}
+.tabbtn:hover { color: #224b8d; }
+.tabbtn[aria-selected="true"] { color: #224b8d; border-bottom-color: #224b8d; }
+.tabpane[hidden] { display: none; }

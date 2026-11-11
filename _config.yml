@@ -160,6 +160,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
@@ -167,6 +168,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
   - jekyll-feed
   - jemoji
 
