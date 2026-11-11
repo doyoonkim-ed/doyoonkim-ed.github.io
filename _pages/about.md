@@ -77,4 +77,4 @@ My current research focuses on:
 
 # 🎖 Honors and Awards
 - *2025.02* Outstanding Paper Award (Dean's Award, School of Medicine), Ajou University Graduate School.
-- Featured in BRIC "한빛사", Biological Research Information Center (BRIC), Korea.
+- *2024.02* Featured in BRIC "한빛사", Biological Research Information Center (BRIC), Korea.
