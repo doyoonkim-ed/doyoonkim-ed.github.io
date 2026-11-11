@@ -36,6 +36,8 @@ My current research focuses on:
 # 📝 Publications
 <sup>\*</sup> Equal contribution
 
+### Journal Articles
+
 - [Integrative transcriptomic and genomic analyses unveil the IFI16 variants and expression as MASLD progression markers](https://doi.org/10.1097/HEP.0000000000000805)<br>
   **D. Kim**\*, M. Shah\*, ..., H. G. Woo<br>
   ***Hepatology*, 2025**
@@ -63,6 +65,12 @@ My current research focuses on:
 - [Pathogenic NOTCH3 Variants Are Frequent Among the Korean General Population](https://doi.org/10.1212/NXG.0000000000000639)<br>
   C. H. Kang\*, Y. M. Kim\*, ..., **D. Y. Kim**, ..., J. C. Choi<br>
   ***Neurology: Genetics*, 2021**
+
+### Conference Proceedings
+
+- [NetPRS: SNP Interaction Aware Network-Based Polygenic Risk Score for Alzheimer's Disease](https://doi.org/10.1109/BHI62660.2024.10913658)<br>
+  S. Park\*, D. Lee\*, J. Kim\*, **D. Kim**, ..., H. G. Woo<br>
+  ***2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)*, 2024**
 
 # 🎖 Honors and Awards
 - *2025.02* Outstanding Thesis Award (Dean's Award, School of Medicine), Graduate School of Ajou University.
