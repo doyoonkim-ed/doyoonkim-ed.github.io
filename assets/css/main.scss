@@ -116,3 +116,17 @@ h1:before, .anchor:before {
 .page__content > ul > li,
 .page__content > p { margin-bottom: .6em; }
 .page__content ul li { margin-bottom: .55em; }
+
+/* bottom link row */
+.site-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5em 1.4em;
+    margin-top: 3em;
+    padding-top: 1.2em;
+    border-top: 1px solid #e8e8e8;
+    font-size: .85em;
+}
+.site-links a { color: #494e52; text-decoration: none; }
+.site-links a:hover { color: #224b8d; }
+.site-links i { margin-right: .25em; }
