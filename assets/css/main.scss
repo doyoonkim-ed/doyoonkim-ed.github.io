@@ -168,3 +168,16 @@ h1:before, .anchor:before {
 .author__urls .fa-globe, .site-links .fa-globe { color: #224b8d !important; }
 .author__urls .fa-map-marker-alt, .author__urls .fa-map-marker { color: #e0453a !important; }
 .author__urls .fa-envelope, .author__urls .fa-envelope-square { color: #ea8a00 !important; }
+
+/* clearer separation between groups of different kinds */
+.tabpane > h1:first-child, .tabpane > .anchor:first-child + p { margin-top: .4em; }
+.page__content h2 {
+    margin-top: 2.4em;
+    padding-top: 1.1em;
+    border-top: 1px solid #eef0f2;
+    font-size: 1.2em;
+}
+.page__content h1 + p + h2, .page__content h1 + h2 { border-top: 0; padding-top: 0; margin-top: 1.4em; }
+.page__content h3 { margin-top: 1.8em; margin-bottom: .6em; font-size: 1.02em; }
+.page__content h2 + h3 { margin-top: 1em; }
+.page__content h3 + ul { margin-top: .3em; }
