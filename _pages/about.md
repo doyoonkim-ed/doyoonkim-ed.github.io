@@ -77,4 +77,4 @@ My current research focuses on:
 - Featured in BRIC "한빛사", Biological Research Information Center (BRIC), Korea.
 
 # 💡 Patents
-- *2026.09* IFI16 mutant gene as a marker for risk prediction, diagnosis or prognosis of chronic liver disease and uses thereof. Korea (10-3028668), registered 2026.09.30 · filed 10-2023-0042074 (2023.03.30).
+- *2026.09* IFI16 Mutant Gene as a Marker for Risk Prediction, Diagnosis or Prognosis of Chronic Liver Disease and Uses Thereof. Korea (10-3028668), registered 2026.09.30 · filed 10-2023-0042074 (2023.03.30).
