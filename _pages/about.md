@@ -24,6 +24,15 @@ My current research focuses on:
 - *2026.07*: &nbsp;Joined Cedars-Sinai Medical Center as a Visiting Researcher.
 - *2025.02*: &nbsp;🏆 Outstanding Thesis Award (Dean's Award), Graduate School of Ajou University.
 
+# 💻 Experience
+- *2026.07 - now*, Visiting Researcher, Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, CA
+- *2024.09 - now*, Research Fellow, Department of Physiology, Ajou University School of Medicine, Suwon, Korea
+- *2023.01 - 2023.02*, Bioinformatics Intern, Insilicogen, Inc., Korea
+
+# 📖 Education
+- *2020.03 - 2024.08*, Ph.D. in Biomedical Sciences (Biomedical Informatics), Ajou University, Korea. Advisor: Dr. Hyun Goo Woo
+- *2013.03 - 2019.02*, B.S. in Life Science, Hallym University, Korea
+
 # 📝 Publications
 <sup>\*</sup> Equal contribution
 
@@ -56,15 +65,8 @@ My current research focuses on:
   ***Neurology: Genetics*, 2021**
 
 # 🎖 Honors and Awards
-- *2026.09* Korean Patent 10-3028668 — _IFI16_ mutant gene as a marker for risk prediction, diagnosis or prognosis of chronic liver disease.
 - *2025.02* Outstanding Thesis Award (Dean's Award, School of Medicine), Graduate School of Ajou University.
 - *2025* Featured in BRIC "Hanbitsa" (Korean Scientists Who Shine) for the _Hepatology_ 2025 paper.
 
-# 📖 Education
-- *2020.03 - 2024.08*, Ph.D. in Biomedical Sciences (Biomedical Informatics), Ajou University, Korea. Advisor: Dr. Hyun Goo Woo
-- *2013.03 - 2019.02*, B.S. in Life Science, Hallym University, Korea
-
-# 💻 Experience
-- *2026.07 - now*, Visiting Researcher, Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, CA
-- *2024.09 - now*, Research Fellow, Department of Physiology, Ajou University School of Medicine, Suwon, Korea
-- *2023.01 - 2023.02*, Bioinformatics Intern, Insilicogen, Inc., Korea
+# 💡 Patents
+- *2026.09* _IFI16_ mutant gene as a marker for risk prediction, diagnosis or prognosis of chronic liver disease and uses thereof. Korea Patent 10-3028668 (registered 2026.09.30; filed 2023.03.30, 10-2023-0042074).

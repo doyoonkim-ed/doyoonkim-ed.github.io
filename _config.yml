@@ -25,11 +25,27 @@ author:
   avatar           : "images/avatar.svg"
   bio              : "Research Fellow, Ajou University School of Medicine<br>Visiting Researcher, Cedars-Sinai Medical Center"
   location         : "Suwon, Korea · Los Angeles, CA"
+  links:
+    - name: Google Scholar
+      url: "" # add your Google Scholar profile URL here
+      icon: "fas fa-fw fa-graduation-cap"
+    - name: ResearchGate
+      url: "https://www.researchgate.net/profile/Doyoon-Kim-9"
+      icon: "fab fa-fw fa-researchgate"
+    - name: ORCID
+      url: "https://orcid.org/0000-0002-9934-5484"
+      icon: "ai ai-orcid-square ai-fw"
+    - name: GitHub
+      url: "https://github.com/doyoonkim-ed"
+      icon: "fab fa-fw fa-github"
+    - name: GitHub.io
+      url: "https://doyoonkim-ed.github.io"
+      icon: "fas fa-fw fa-link"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : 
-  researchgate     : "https://www.researchgate.net/profile/Doyoon-Kim-9"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +53,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "doyoonkim-ed"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +61,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-9934-5484"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

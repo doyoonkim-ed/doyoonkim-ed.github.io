@@ -107,3 +107,12 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* section spacing */
+.page__content h1 {
+    margin-top: 2.6em;
+    padding-bottom: .35em;
+    border-bottom: 1px solid #e8e8e8;
+}
+.page__content > ul > li,
+.page__content > p { margin-bottom: .6em; }
+.page__content ul li { margin-bottom: .55em; }
