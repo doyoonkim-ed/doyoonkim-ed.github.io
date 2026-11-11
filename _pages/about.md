@@ -24,14 +24,14 @@ My current research focuses on:
 - *2026.07*: &nbsp;Joined Cedars-Sinai Medical Center as a Visiting Researcher.
 - *2025.02*: &nbsp;🏆 Outstanding Thesis Award (Dean's Award), Graduate School of Ajou University.
 
+# 📖 Education
+- *2020.03 - 2024.08*, Ph.D. in Biomedical Sciences (Major in Biomedical Informatics), Ajou University, Suwon, Korea. Advisor: Dr. Hyun Goo Woo
+- *2013.03 - 2019.02*, B.S. in Life Science (Minor in Biomedical Science), Hallym University, Chuncheon, Korea
+
 # 💻 Experience
 - *2026.07 - 2027.01*, Visiting Researcher, Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, CA, USA
 - *2024.09 - now*, Research Fellow, Department of Physiology, Ajou University School of Medicine, Suwon, Korea
 - *2023.01 - 2023.02*, Bioinformatics Intern (ACO Internship 2023, Winter), Insilicogen, Inc., Yongin, Korea
-
-# 📖 Education
-- *2020.03 - 2024.08*, Ph.D. in Biomedical Sciences (Major in Biomedical Informatics), Ajou University, Suwon, Korea. Advisor: Dr. Hyun Goo Woo
-- *2013.03 - 2019.02*, B.S. in Life Science (Minor in Biomedical Science), Hallym University, Chuncheon, Korea
 
 # 📝 Publications
 <sup>\*</sup> Equal contribution
@@ -72,9 +72,9 @@ My current research focuses on:
   S. Park\*, D. Lee\*, J. Kim\*, **D. Kim**, ..., H. G. Woo<br>
   ***2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)*, 2024**
 
+# 💡 Patents
+- *2026.09* IFI16 Mutant Gene as a Marker for Risk Prediction, Diagnosis or Prognosis of Chronic Liver Disease and Uses Thereof. Korea (10-3028668), registered 2026.09.30 · filed 10-2023-0042074 (2023.03.30).
+
 # 🎖 Honors and Awards
 - *2025.02* Outstanding Thesis Award (Dean's Award, School of Medicine), Graduate School of Ajou University.
 - Featured in BRIC "한빛사", Biological Research Information Center (BRIC), Korea.
-
-# 💡 Patents
-- *2026.09* IFI16 Mutant Gene as a Marker for Risk Prediction, Diagnosis or Prognosis of Chronic Liver Disease and Uses Thereof. Korea (10-3028668), registered 2026.09.30 · filed 10-2023-0042074 (2023.03.30).
