@@ -22,11 +22,6 @@ layout: compress
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
             {{ content }}
-            <div class="site-links">
-              {% for l in site.author.links %}{% if l.url and l.url != "" %}
-              <a href="{{ l.url }}" target="_blank" rel="noopener"><i class="{{ l.icon }}" aria-hidden="true"></i> {{ l.name }}</a>
-              {% endif %}{% endfor %}
-            </div>
           </section>
         </div>
       </article>
