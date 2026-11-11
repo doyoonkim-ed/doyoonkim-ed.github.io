@@ -25,13 +25,13 @@ My current research focuses on:
 - *2025.02*: &nbsp;🏆 Outstanding Thesis Award (Dean's Award), Graduate School of Ajou University.
 
 # 💻 Experience
-- *2026.07 - now*, Visiting Researcher, Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, CA
+- *2026.07 - 2027.01*, Visiting Researcher, Department of Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, CA, USA
 - *2024.09 - now*, Research Fellow, Department of Physiology, Ajou University School of Medicine, Suwon, Korea
-- *2023.01 - 2023.02*, Bioinformatics Intern, Insilicogen, Inc., Korea
+- *2023.01 - 2023.02*, Bioinformatics Intern (ACO Internship 2023, Winter), Insilicogen, Inc., Yongin, Korea
 
 # 📖 Education
-- *2020.03 - 2024.08*, Ph.D. in Biomedical Sciences (Biomedical Informatics), Ajou University, Korea. Advisor: Dr. Hyun Goo Woo
-- *2013.03 - 2019.02*, B.S. in Life Science, Hallym University, Korea
+- *2020.03 - 2024.08*, Ph.D. in Biomedical Sciences (Major in Biomedical Informatics), Ajou University, Suwon, Korea. Advisor: Dr. Hyun Goo Woo
+- *2013.03 - 2019.02*, B.S. in Life Science (Minor in Biomedical Science), Hallym University, Chuncheon, Korea
 
 # 📝 Publications
 <sup>\*</sup> Equal contribution
@@ -44,13 +44,13 @@ My current research focuses on:
   S. Park\*, **D. Kim**\*, ..., H. G. Woo<br>
   ***Briefings in Bioinformatics*, 2025**
 
+- [Pan-Variant SARS-CoV-2 Vaccines Induce Protective Immunity by Targeting Conserved Epitopes](https://doi.org/10.1002/advs.202409919)<br>
+  M. Shah, ..., **D. Kim**, H. G. Woo<br>
+  ***Advanced Science*, 2025**
+
 - [Plasma protein-based identification of neuroimage-driven subtypes in mild cognitive impairment via protein-protein interaction aware explainable graph propagational network](https://doi.org/10.1016/j.compbiomed.2024.109303)<br>
   S. Park\*, **D. Kim**\*, ..., H. G. Woo<br>
   ***Computers in Biology and Medicine*, 2024**
-
-- [Pan-variant SARS-CoV-2 vaccines induce protective immunity by targeting conserved epitopes](https://doi.org/10.1002/advs.202409919)<br>
-  M. Shah, ..., **D. Kim**, H. G. Woo<br>
-  ***Advanced Science*, 2025**
 
 - [Identification of molecular subtypes of dementia by using blood-proteins interaction-aware graph propagational network](https://doi.org/10.1093/bib/bbae428)<br>
   S. Park, ..., **D. Kim**, ..., H. G. Woo<br>
@@ -60,13 +60,13 @@ My current research focuses on:
   J. B. Kim, ..., **D. Kim**, ..., S. M. Park<br>
   ***Biomedicine & Pharmacotherapy*, 2024**
 
-- [Pathogenic NOTCH3 variants are frequent among the Korean general population](https://doi.org/10.1212/NXG.0000000000000639)<br>
-  C. H. Kang\*, Y. M. Kim\*, ..., **D. Kim**, ..., J. C. Choi<br>
+- [Pathogenic NOTCH3 Variants Are Frequent Among the Korean General Population](https://doi.org/10.1212/NXG.0000000000000639)<br>
+  C. H. Kang\*, Y. M. Kim\*, ..., **D. Y. Kim**, ..., J. C. Choi<br>
   ***Neurology: Genetics*, 2021**
 
 # 🎖 Honors and Awards
 - *2025.02* Outstanding Thesis Award (Dean's Award, School of Medicine), Graduate School of Ajou University.
-- *2025* Featured in BRIC "Hanbitsa" (Korean Scientists Who Shine) for the _Hepatology_ 2025 paper.
+- Featured in BRIC "한빛사", Biological Research Information Center (BRIC), Korea.
 
 # 💡 Patents
-- *2026.09* _IFI16_ mutant gene as a marker for risk prediction, diagnosis or prognosis of chronic liver disease and uses thereof. Korea Patent 10-3028668 (registered 2026.09.30; filed 2023.03.30, 10-2023-0042074).
+- *2026.09* IFI16 mutant gene as a marker for risk prediction, diagnosis or prognosis of chronic liver disease and uses thereof. Korea (10-3028668), registered 2026.09.30 · filed 10-2023-0042074 (2023.03.30).
