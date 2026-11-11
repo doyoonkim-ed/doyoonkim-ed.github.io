@@ -96,25 +96,29 @@ My current research focuses on:
 # 🔬 Research Interests
 
 I study **what molecular factors drive heterogeneity among patients with the same disease**.
-My approach combines multi-omics profiling, single-cell and spatial transcriptomics, network-based machine learning, and biomedical knowledge graphs to turn patient-level molecular data into disease subtypes, driver variants, and therapeutic hypotheses.
+My research is organized along two axes: the **diseases** I study, and the **methods** I develop and apply to them.
 
-## 🫀 Liver disease and liver cancer
-- **Genomic drivers of MASLD progression** — Integrating RNA-seq and whole-exome sequencing of MASLD liver tissue, I identified transcriptomic subtypes of disease progression and the _IFI16_ variant (rs6940) as a progression marker ([_Hepatology_, 2025](https://doi.org/10.1097/HEP.0000000000000805)); the finding led to a registered Korean patent.
-- **Tumor immune microenvironment of primary liver cancer** — Single-cell multiome (scRNA + scATAC) analysis of hepatocellular carcinoma and cholangiocarcinoma to find epi-driver genes that shape the tumor immune microenvironment (TIME), and to design immune checkpoint inhibitor–based combination strategies (Principal Investigator, NRF Basic Research Program, 2026–2029).
-- **Spatial tumor heterogeneity** — Combining spatial transcriptomics (Visium) with single-cell / single-nucleus RNA-seq to map intratumoral heterogeneity of liver cancer, including a Korea–France joint project on a virtual spatial model of liver cancer.
+## 🩺 Diseases
 
-## 🧠 Dementia and Alzheimer's disease
-- **Plasma proteome–based subtyping** — Graph-based machine learning on protein–protein interaction networks to classify dementia and mild cognitive impairment subtypes from blood: GPN ([_Brief. Bioinform._, 2024](https://doi.org/10.1093/bib/bbae428)), XGPN ([_Comput. Biol. Med._, 2024](https://doi.org/10.1016/j.compbiomed.2024.109303)), and NeuroFANN ([_Brief. Bioinform._, 2025](https://doi.org/10.1093/bib/bbaf366)).
-- **Genetic risk** — Network-based polygenic risk scores that account for SNP interactions (NetPRS, [IEEE BHI 2024](https://doi.org/10.1109/BHI62660.2024.10913658)).
-- **Multimodal patient stratification** — Integrating gut microbiome, genetic variants, plasma proteins, and neuroimaging to classify patients with Alzheimer's disease, together with single-cell RNA-seq of patient-derived neurons.
+### 🫀 Liver disease and liver cancer
+- **MASLD progression** — Transcriptomic subtypes of metabolic dysfunction-associated steatotic liver disease and the _IFI16_ variant (rs6940) as a genetic driver of disease progression ([_Hepatology_, 2025](https://doi.org/10.1097/HEP.0000000000000805)); the finding led to a registered Korean patent.
+- **Tumor immune microenvironment of primary liver cancer** — Epi-driver genes that shape the tumor immune microenvironment (TIME) of hepatocellular carcinoma and cholangiocarcinoma, toward immune checkpoint inhibitor–based combination strategies (Principal Investigator, NRF Basic Research Program, 2026–2029).
+- **Spatial tumor heterogeneity** — Intratumoral heterogeneity of liver cancer, including a Korea–France joint project on a virtual spatial model of liver cancer.
 
-## 🕸️ Biomedical knowledge graphs and LLMs
-- **GraphRAG for biomedicine** — Building a knowledge graph that integrates 26 public biomedical knowledge bases and coupling it with large language models (GraphRAG / HybridRAG) to support hypothesis generation for Alzheimer's disease, at the Department of Computational Biomedicine, Cedars-Sinai Medical Center.
+### 🧠 Dementia and Alzheimer's disease
+- **Blood-based subtyping** — Plasma protein biomarkers for dementia and mild cognitive impairment subtypes defined by amyloid, atrophy, white matter hyperintensity, and vascular pathology ([_Brief. Bioinform._, 2024](https://doi.org/10.1093/bib/bbae428); [_Comput. Biol. Med._, 2024](https://doi.org/10.1016/j.compbiomed.2024.109303); [_Brief. Bioinform._, 2025](https://doi.org/10.1093/bib/bbaf366)).
+- **Genetic risk** — Polygenic risk of Alzheimer's disease that accounts for interactions between SNPs ([IEEE BHI 2024](https://doi.org/10.1109/BHI62660.2024.10913658)).
+- **Multimodal patient stratification** — Classifying patients with Alzheimer's disease by combining gut microbiome, genetic variants, plasma proteins, and neuroimaging, together with single-cell profiling of patient-derived neurons.
 
-## 🧰 Methods
-- Multi-omics integration (WES, WGS, bulk RNA-seq, SNP arrays, plasma proteomics, microbiome)
-- Single-cell and spatial transcriptomics (scRNA-seq, scATAC-seq / multiome, Visium)
-- Graph-based and explainable machine learning, polygenic risk modeling
-- Knowledge graph construction and retrieval-augmented generation with LLMs
+## 🧪 Methods
+
+### 🕸️ Graph-based AI
+- **Network propagation models** — Graph-based machine learning that propagates molecular effects over protein–protein interaction networks: GPN, explainable XGPN, and functionally annotated NeuroFANN for plasma proteomics, and NetPRS for SNP networks.
+- **Biomedical knowledge graphs and LLMs** — A knowledge graph integrating 26 public biomedical knowledge bases, coupled with large language models (GraphRAG / HybridRAG) for hypothesis generation in Alzheimer's disease, at the Department of Computational Biomedicine, Cedars-Sinai Medical Center.
+
+### 🧬 Multi-omics
+- **Genomics and transcriptomics** — Integrative analysis of whole-exome / whole-genome sequencing, SNP arrays, and bulk RNA-seq to connect genetic variants with disease subtypes.
+- **Single-cell and spatial transcriptomics** — scRNA-seq, single-cell multiome (scRNA + scATAC), and spatial transcriptomics (Visium) to resolve cell-state and spatial heterogeneity in tumors and tissues.
+- **Proteomics and microbiome** — Plasma proteomic panels and shotgun metagenomics as minimally invasive layers for patient stratification.
 
 </div>

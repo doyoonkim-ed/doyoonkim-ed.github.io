@@ -158,3 +158,13 @@ h1:before, .anchor:before {
 .tabbtn:hover { color: #224b8d; }
 .tabbtn[aria-selected="true"] { color: #224b8d; border-bottom-color: #224b8d; }
 .tabpane[hidden] { display: none; }
+
+/* brand-colored profile icons */
+.author__urls i, .site-links i { color: inherit; }
+.author__urls .fa-graduation-cap, .site-links .fa-graduation-cap { color: #4285f4 !important; }
+.author__urls .fa-researchgate, .site-links .fa-researchgate { color: #00ccbb !important; }
+.author__urls .ai-orcid-square, .site-links .ai-orcid-square { color: #a6ce39 !important; }
+.author__urls .fa-github, .site-links .fa-github { color: #181717 !important; }
+.author__urls .fa-globe, .site-links .fa-globe { color: #224b8d !important; }
+.author__urls .fa-map-marker-alt, .author__urls .fa-map-marker { color: #e0453a !important; }
+.author__urls .fa-envelope, .author__urls .fa-envelope-square { color: #ea8a00 !important; }
