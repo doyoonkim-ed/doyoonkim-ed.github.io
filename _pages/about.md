@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Fellow, <a href='https://www.ajou.ac.kr/medicine/' target='_blank'>Ajou University School of Medicine</a> · Visiting Researcher, Department of Computational Biomedicine, <a href='https://www.cedars-sinai.org/' target='_blank'>Cedars-Sinai Medical Center</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image:
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Physiology</p>
+    <p>Ajou University School of Medicine</p>
+    <p>Suwon, Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a computational biologist working at the interface of **multi-omics data analysis** and **biomedical AI**.
+My research asks what molecular factors drive heterogeneity among patients with the same disease, and how those factors contribute to disease progression.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current work spans four directions:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Liver disease genomics** — integrating whole-exome and transcriptome data to find drivers of MASLD progression, such as _IFI16_ variants and expression ([Hepatology, 2025](https://doi.org/10.1097/HEP.0000000000000805)).
+- **Single-cell and spatial omics of liver cancer** — single-cell multiome (scRNA-seq, scATAC-seq) of intrahepatic cholangiocarcinoma and Visium spatial transcriptomics of hepatocellular carcinoma to resolve the tumor immune microenvironment.
+- **Graph-based machine learning for dementia** — protein–protein interaction-aware graph neural networks for plasma proteome-based subtyping of dementia and mild cognitive impairment.
+- **Biomedical knowledge graphs and GraphRAG** — integrating public omics, clinical, and pharmacological knowledge bases into a translational knowledge graph combined with large language models.
+
+I received my Ph.D. in Biomedical Sciences (Biomedical Informatics) from Ajou University under Dr. Hyun Goo Woo, and I am currently a visiting researcher in Dr. Kyoung Jae Won's lab at Cedars-Sinai Medical Center.
