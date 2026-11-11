@@ -22,7 +22,10 @@ My current research focuses on:
 - *2026.09*: &nbsp;🎉 Korean patent registered on _IFI16_ variants as markers for chronic liver disease (10-3028668).
 - *2026.09*: &nbsp;Started a Basic Research Program grant (Ministry of Education / NRF) as Principal Investigator.
 - *2026.07*: &nbsp;Joined Cedars-Sinai Medical Center as a Visiting Researcher.
+- *2025.07*: &nbsp;📝 Co-first-author paper on NeuroFANN published in [_Briefings in Bioinformatics_](https://doi.org/10.1093/bib/bbaf366).
 - *2025.02*: &nbsp;🏆 Outstanding Paper Award (Dean's Award, School of Medicine), Ajou University Graduate School.
+- *2024.10*: &nbsp;📝 Co-first-author paper on XGPN for MCI subtyping published in [_Computers in Biology and Medicine_](https://doi.org/10.1016/j.compbiomed.2024.109303).
+- *2024.02*: &nbsp;📝 First-author paper on _IFI16_ variants in MASLD progression published in [_Hepatology_](https://doi.org/10.1097/HEP.0000000000000805).
 
 # 📖 Education
 - *2020.03 - 2024.08*, Ph.D. in Biomedical Sciences (Major in Biomedical Informatics), Ajou University, Suwon, Korea. Advisor: Dr. Hyun Goo Woo
